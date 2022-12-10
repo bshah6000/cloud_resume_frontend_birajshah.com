@@ -37,7 +37,7 @@ bullet{
     color: black;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 17px;
     font-style:normal;
     margin:0px;
 }
@@ -49,11 +49,11 @@ bullet{
     float:left;
 }
 .resume_div{
-    width:53%;
+    width:1037px;
     padding: 3px;
     margin:auto;
 }
 hr.solid {
     border-top: 3px solid black;
-    width: 53%;
+    width: 1037px;
   }
